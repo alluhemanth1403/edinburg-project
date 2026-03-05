@@ -5,7 +5,7 @@ const Footer = () => (
         Scottish Mammal Observations
       </p>
       <p>A frontend prototype for SET11112 coursework — Edinburgh Napier University</p>
-      <p className="mt-2">All data shown is sample/mock data for demonstration purposes.</p>
+      <p className="mt-2">Project By Nagireddy Kusum Sai Kiran.</p>
     </div>
   </footer>
 );
